@@ -1,3 +1,25 @@
     h2{
-        color:orange;
+        color:red;
     }
+
+  body{
+    background-color: #d9dbe8;
+    color: blue;
+    font-family:monospace;
+    text-align: center;
+  }
+
+    header{
+        border-bottom: 1px solid orange;
+    }
+
+    footer{
+        border-top: 1px solid orange;
+    }
+  #nome-usuario{
+    font-weight: bold;
+  }
+
+  .texto-inglês {
+    font-style: italic;
+  }
